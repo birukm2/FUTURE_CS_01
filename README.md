@@ -1,4 +1,4 @@
-# Web Application Security Testing – Task 1
+# Web Application Security Testing 
 **Author:** Biruk Mesfin  
 **Date:** March 26, 2026  
 
